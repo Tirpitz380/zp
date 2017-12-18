@@ -1,0 +1,34 @@
+html{
+	height: 100%;
+	
+}
+body{
+	height: 100%;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#box{
+	width: 100%;height: 100%;background:url(../img/QQ图片20171215155413.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	position: relative;
+}
+
+     #img1{
+            width: 900px;
+            height: 900px;
+            position: absolute;
+ background-image: url(../img/b_b.png);
+          background-repeat: no-repeat;
+         background-size: 900px 900px;
+         border-radius: 100% 100%;
+            left: 50%;
+            top:5rem;
+            margin-left: -450px;
+
+
+    }
+
